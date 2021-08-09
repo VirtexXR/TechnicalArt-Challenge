@@ -32,7 +32,10 @@ The total time spent on this test should be no more than 1 day.
 - Works in VR (no screen space effects)
 - Ensure the materials respect PBR values
 
+## Bonuses
 
+- VFX (Particle Emission)
+- Animation
 
 ## Submission
 
