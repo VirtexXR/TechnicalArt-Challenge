@@ -28,7 +28,7 @@ The total time spent on this test should be no more than 1 day.
 
 ## Requirements
 
-- Submitted as an Unreal Engine Project file in addition to source files for your respective modelling/texturing software
+- Submitted as an Unreal Engine Project file in addition to source files for your respective software (if any external tools are use)
 - You are not required to model/texture any 3D objects/assets you would like to use
 - Works in VR (no screen space effects)
 - Ensure the materials respect PBR values
