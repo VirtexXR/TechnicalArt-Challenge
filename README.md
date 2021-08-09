@@ -15,7 +15,7 @@ This shader must contain the folllowing features:
 
 The banners will be displayed in a range of standalone and mounted (with a background) scenarios so you will have to account for this in design of things like opacity.
 
-![image](https://user-images.githubusercontent.com/33485538/128692096-bccba773-8aa7-41e1-bca3-8245e725867a.png)
+![image](https://user-images.githubusercontent.com/33485538/128692730-fa7c06f2-3fdc-44b0-b8d2-5fdd89e10de1.png)
 
 
 ## The Goal
