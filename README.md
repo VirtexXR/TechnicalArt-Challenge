@@ -40,4 +40,5 @@ The total time spent on this test should be no more than 1 day.
 
 ## Submission
 
-To submit your work please upload the relevant files to WeTransfer or GDrive. Once ready please share with [Tim](mailto:tim@virtexstadium.com)
+To submit your work please upload the relevant files to WeTransfer or GDrive. Once ready please share with [Raoul](mailto:raoul@virtexstadium.com)
+
